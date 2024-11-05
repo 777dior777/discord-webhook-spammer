@@ -1,0 +1,8 @@
+# DELETE THIS 
+# Place webhooks below like this (you can use as many as you want)
+
+Webhook1
+Webhook2
+Webhook3
+
+# DISCORD: https://discord.gg/79JMtBTP2E
