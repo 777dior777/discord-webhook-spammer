@@ -1,8 +1,20 @@
-# MULTIPLE Discord Webhoo kSpammer
+# MULTIPLE Discord Webhook Spammer
 Simple, Fast discord webhook spammer
 
 **DISCORD: https://discord.gg/79JMtBTP2E**
 
+## Benefits:
+- Fast spamming
+
+- Multiple webhook support
+
+- Infinite webhook support
+
+- Proxyless
+
+- Beginner friendly
+
+- Open source as usual
 
 ## How to use?
 1: Open `config.txt`
