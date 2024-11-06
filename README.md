@@ -14,7 +14,7 @@ Simple, Fast discord webhook spammer
 4: Boom! The webhook(s) will be spammed!
 
 ## FAQ
-**OPEN A TICKET IN THE DISCORD IF YOU HAVE ANY ISSUES
+**OPEN A TICKET IN THE DISCORD IF YOU HAVE ANY ISSUES**
 
 ## Extra
 **PLEASE STAR THIS REPO**
